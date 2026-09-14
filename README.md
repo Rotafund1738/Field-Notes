@@ -15,6 +15,7 @@ The purpose of this documentation is for future review and potential discussion,
 | [Cap](./Investigations/Cap.md) | Linux | Packet Analysis, Credential Recovery, Linux Capabilities |
 | [Active](./Investigations/Active.md) | Windows (Active Directory) | SMB, GPP, Password Cracking, Kerberoast |
 | [Sauna](./Investigations/Sauna.md) | Windows (Active Directory) | Enumeration, AS-REP, Pivoting, Permission Abuse |
+| [Support](./Investigations/Support.md) | Windows (Active Directory) | SMB, XOR Decryption, LDAP, RBCD |
 
 ## Additional Notes
 
